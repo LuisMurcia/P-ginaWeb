@@ -1,0 +1,165 @@
+body,html{
+    height:100%;
+    padding:0px;
+    margin:0px
+}
+body{
+    font-size:3vw
+}
+.fondo{
+    height:100%;
+    width:100%;
+    position:fixed;
+    z-index: -3;
+}
+.fondo img{
+    width: 100%;
+    height: 100%; 
+}
+.tierra{
+    height:24%;
+    width:22%;
+    position:fixed;
+    bottom:30px;
+    z-index: -2;
+}
+.tierra img{
+    width: 160%;
+    height: 115%;
+}
+.sol{
+    height: 190px;
+    width: 240px;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    z-index: -2;
+}
+.sol img{
+    width: 100%;
+    height: 100%;
+}
+#desplegable{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    right: 0px;
+    margin-top: 5px;
+    z-index: 0;
+    background-image: url(../img/B_M.png);
+    background-size: 80%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+#play{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    right: 0px;
+    margin-top: 30px;
+    margin-right: 70px;
+    z-index: 0;
+}
+#play img{
+    width: 0%;
+    height: 0%;
+}
+#reset{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    right: 0px;
+    margin-top: 170px;
+    margin-right: 70px;
+    z-index: 0;
+}
+#reset img{
+    width: 0%;
+    height: 0%;
+}
+#help{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    right: 0px;
+    margin-top: 310px;
+    margin-right: 70px;
+    z-index: 0;
+}
+#help img{
+    width: 0%;
+    height: 0%;
+}
+.luna{
+    height:25%;
+    width:100%;
+    position:fixed;
+    bottom:0px;
+    left: 0px;
+    right:0px;
+    margin:0 auto;
+    z-index: -1;
+}
+.luna img{
+    width: 100%;
+    height: 100%;
+}
+#velocidad{
+    text-align: center;
+    background-color: white;
+    border-style: ridge;
+    width:30%;
+    height: 10%;
+    position:fixed;
+    top: 30px;
+    left: 10px;
+    margin:0 auto;
+    z-index: 0;
+    font-size: 150%;
+    font-weight:bold;
+}
+#altura{
+    text-align: center;
+    background-color: white;
+    border-style: ridge;
+    width:30%;
+    height: 10%;
+    position:fixed;
+    top: 120px;
+    left: 10px;
+    margin:0 auto;
+    z-index: 0;
+    font-size: 150%;
+    font-weight:bold;
+}
+.barra{
+    background-color: white;
+    border-style: solid;
+    width:28.5%;
+    height: 20px;
+    position:fixed;
+    bottom:12px;
+    left: 0px;
+    right:0px;
+    margin:0 auto;
+    z-index: 0;
+}
+#fuel{
+    background-color: green;
+    width:20%;
+    height: 100%;
+}
+#nave{
+    text-align:center;
+    position:fixed;
+    top:5%;
+    width:100%;
+    height:20%;
+}
+#nave img{
+    height:75%;
+}
