@@ -137,7 +137,8 @@ body{
 }
 #fuel{
     background-color: green;
-    width:20%;
+	max-width: 100%;
+    width:40%;
     height: 100%;
 }
 #nave{
