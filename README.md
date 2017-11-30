@@ -20,5 +20,5 @@ En el formato para dispositivos móviles, he cambiado la localización de los in
 Me falla en aumentar mucho el tamaño de la página y en los dispositivos Tablet.
 
 **Links:**  
-Rawgit: https://rawgit.com/LuisMurcia/P-ginaWeb/master/Lunar_lander.html
-Validador:
+Rawgit: https://rawgit.com/LuisMurcia/P-ginaWeb/master/Lunar_lander.html  
+Validador: https://validator.w3.org/nu/?doc=https%3A%2F%2Frawgit.com%2FLuisMurcia%2FP-ginaWeb%2Fmaster%2FLunar_lander.html
