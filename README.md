@@ -17,7 +17,7 @@ He sido fiel al diseño original del cliente salvo por una cosa:
 En el formato para dispositivos móviles, he cambiado la localización de los indicadores de velocidad y de altura debido a que estos tapaban la trayectoria final del aterrizaje de la nave. Los he colocado en la parte superior izquierda de la pantalla vertical para que no se junten con el menú ni con la nave y para que sean fácilmente visibles por el usuario.
 
 **Notas:**  
-Me falla en aumentar mucho el tamaño de la página y en los dispositivos Tablet.
+Me falla en aumentar mucho el tamaño de la página y en los dispositivos Tablet se ven algo pequeños los indicadores de velocidad y altura.
 
 **Links:**  
 Rawgit: https://rawgit.com/LuisMurcia/P-ginaWeb/master/Lunar_lander.html  
